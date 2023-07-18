@@ -1,1 +1,1 @@
-console.log('Hello Satu')
+document.write('HEllO WORLD')
